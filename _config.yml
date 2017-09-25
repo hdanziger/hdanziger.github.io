@@ -1,0 +1,21 @@
+# Site settings
+title: Ziggy Pop
+header-img: img/home-bg.png
+email: hdanziger8@gmail.com
+copyright_name: hdanziger
+description: > # this means to ignore newlines until "baseurl:"
+  combining coding with creativity 
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  hdanziger
+learn_profile: hdanziger
+email_username: hdanziger8@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
