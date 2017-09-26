@@ -4,7 +4,7 @@ header-img: img/home-bg.png
 email: hdanziger8@gmail.com
 copyright_name: hdanziger
 description: > # this means to ignore newlines until "baseurl:"
-  combining coding with creativity 
+  Finding a Hybrid of Creativity and Coding
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  hdanziger
