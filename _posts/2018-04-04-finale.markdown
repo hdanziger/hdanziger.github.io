@@ -1,0 +1,13 @@
+---
+layout: post
+title:      "Finale!    "
+date:       2018-04-04 21:17:17 +0000
+permalink:  finale
+---
+
+
+I have just finished my final portfolio project! I have so relieved, but also nervous for my assessment. I tried to not take too many risks with this project since react/redux is a tricky topic for me. It has taken a lot of tutorials and coding and re-coding in order to get to this point. I this what we have been taught in these sections has been so import and pretty cool to watch, but definitely one of the more tricky concepts to grasp. there are many more moving parts than in previous sections. While these parts themselves are not too complicated, figuring out how they work together, and what each component looks like at each state in the process can be difficult to keep track of. 
+
+to me the trickiest part to grasp has been state vs. props and how they change with each step of the process. it is a great supplement to JavaScript, but definitely difficult! I feel like flatiron has pushed me to my limits and has not only taught me new things, but also taught me how to learn and think in new, dynamic ways. 
+
+and for that I feel lucky. 
