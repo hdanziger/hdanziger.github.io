@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Finale!    "
-date:       2018-04-04 21:17:17 +0000
+title:      "Finale! Finale!    "
+date:       2018-04-04 17:17:18 -0400
 permalink:  finale
 ---
 
